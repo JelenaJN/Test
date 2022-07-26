@@ -10,7 +10,7 @@ public class MultiplicationTable {
                 System.out.println(i + " x " + j +" = " + i*j);
             }
         }
-        
+
     }
 
 }
